@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/note_python.iml" filepath="$PROJECT_DIR$/.idea/note_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python人工智能/.idea/python人工智能.iml" filepath="$PROJECT_DIR$/../python人工智能/.idea/python人工智能.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../运维平台管理工具/.idea/运维平台管理工具.iml" filepath="$PROJECT_DIR$/../运维平台管理工具/.idea/运维平台管理工具.iml" />
+    </modules>
+  </component>
+</project>
